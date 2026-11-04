@@ -1,5 +1,5 @@
 // رابط التطبيق على Google Play
-const PLAY_URL = "";
+const PLAY_URL = "https://play.google.com/store/apps/details?id=com.amryasser.daftaraltaat";
 
 const root = document.documentElement;
 const darkQuery = matchMedia("(prefers-color-scheme: dark)");
